@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# camera captures
+captures/
+
+# os and editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
